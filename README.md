@@ -63,3 +63,4 @@ I decided to formalise this list after my bookmarks were getting a bit out of ha
 
 
 ## Random
+- [Lay offs](http://layoffs.fyi/)
