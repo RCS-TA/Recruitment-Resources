@@ -26,7 +26,7 @@ I decided to formalise this list after my bookmarks were getting a bit out of ha
 ## Interesting articles
 -[DocuSign- How to use data to motivate,engage and show its recruiting team some love](https://business.linkedin.com/talent-solutions/blog/talent-analytics/2017/how-docusign-used-data-to-motivate-engage-and-show-its-recruiting-team_)
 -[Why Spotify doesnt use the spotify model](https://www.jeremiahlee.com/posts/failed-squad-goals/)
--
+
 
 ## Recruitment as a product 
 -[A Product Mindset for Internal Recruitment](https://medium.com/swlh/a-product-mindset-for-internal-recruitment-b2e659934ba2_
