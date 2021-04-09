@@ -1,10 +1,14 @@
-# Recruitment-Resources
+#  Recruitment Resources 🔥
 
-Hell everyone, Im [Robbie](https://www.linkedin.com/in/robbiecraigsimpson/)
+Hello everyone, Im [Robbie](https://www.linkedin.com/in/robbiecraigsimpson/)
 
-Currently im working for HelloFresh in their Data team, mainly recruiting for our Berlin office. But I have experience recruiting across Europe within various tech companies. 
+Currently im working for HelloFresh in their Data team, mainly recruiting for our Berlin office.
 
-I decided to formalise this list after my bookmarks were getting a bit out of hand. Inspired by [awesome-recruitment](https://github.com/Sjamilla/awesome-recruitment) github. Over there Sjamilla has a far more indepth set of resources and youll notice a lot of mine are the same. Because Sjamilla's list is soo good im going to be a bit selfish so you might notice resource links being deleted/changed over time, as this list is mainly focussed at helping me, but if it helps you then thats great also!
+I decided to formalise this list after my bookmarks were getting a bit out of hand. Inspired by [awesome-recruitment](https://github.com/Sjamilla/awesome-recruitment) github. I have created a list of resources in which I use frequently or want to remember for future reference 
+
+If you are looking for something more extensive the [awesome-recruitment](https://github.com/Sjamilla/awesome-recruitment) by Sjamilla  has a far more indepth set of resources, some of mine ive found through that list. 
+
+Because the purpose of the list is more to self-organise  you might notice resource links being deleted/changed over time so please bookmark/make your own list if you find something useful!
 
 
 ## 🗣️  Podcasts 
