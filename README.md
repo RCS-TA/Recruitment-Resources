@@ -29,7 +29,7 @@ I decided to formalise this list after my bookmarks were getting a bit out of ha
 
 
 ## Recruitment as a product 
-- [A Product Mindset for Internal Recruitment](https://medium.com/swlh/a-product-mindset-for-internal-recruitment-b2e659934ba2_
+- [A Product Mindset for Internal Recruitment](https://medium.com/swlh/a-product-mindset-for-internal-recruitment-b2e659934ba2_)
 - [Recruitment as Product](https://dasbarrett.medium.com/recruitment-as-a-product-7d280f699d45)
 
 ## Blogs
