@@ -1,6 +1,6 @@
 # Recruitment-Resources
 
-Hell everyone, Im Robbie(https://www.linkedin.com/in/robbiecraigsimpson/)
+Hell everyone, Im [Robbie](https://www.linkedin.com/in/robbiecraigsimpson/)
 
 Currently im working for HelloFresh in their Data team, mainly recruiting for our Berlin office. But I have experience recruiting across Europe within various tech companies. 
 
