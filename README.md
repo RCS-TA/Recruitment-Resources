@@ -74,6 +74,9 @@ I decided to formalise this list after my bookmarks were getting a bit out of ha
 - [Data Scraper](https://chrome.google.com/webstore/detail/data-scraper-easy-web-scr/nndknepjnldbdbepjfgmncbggmopgden)
 
 ## Githubs 
+- [Octo HR](https://chrome.google.com/webstore/detail/octohr/beiklbdjdmfkgchmiabjejdlpaoicbef/related)
+- [Git Awards](http://git-awards.com/)
+
 
 ## Job Descriptions 
 -  [Gender Decoder](http://gender-decoder.katmatfield.com/)
