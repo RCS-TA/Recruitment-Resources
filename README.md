@@ -10,7 +10,7 @@ I decided to formalise this list after my bookmarks were getting a bit out of ha
 
 
 ## Podcasts 🗣️
-- [Potential in People](https://open.spotify.com/show/4KzfLMXamIlP74ZX0bYAv7?si=EbQB7GEETV-nLPkTdVU-sw)
+- [Potential in People](https://open.spotify.com/show/4KzfLMXamIlP74ZX0bYAv7?si=EbQB7GEETV-nLPkTdVU-sw)/
 - [Coffee with a recruiter](https://open.spotify.com/show/048o7UfTAigaNVqCfab4V8?si=4M8C4CtbTwyDOpC-WqbOrw)
 - [The recruiting brainfood podcast](https://open.spotify.com/show/3dFBspf9jXwpnJPLwSd72u?si=GkD0_NPhS52ifW2b6O6zKg)
 - [Master of Product Management](https://open.spotify.com/episode/5snQ7mdIpaZm9xyXiObRsg?si=Kc99TNKARjWVaFke3gekog)
