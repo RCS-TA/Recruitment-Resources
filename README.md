@@ -10,6 +10,9 @@ If you are looking for something more extensive the [awesome-recruitment](https:
 
 Because the purpose of the list is more to self-organise  you might notice resource links being deleted/changed over time so please bookmark/make your own list if you find something useful!
 
+Section
+* Podcasts
+
 
 ## 🗣️  Podcasts 
 - [Potential in People](https://open.spotify.com/show/4KzfLMXamIlP74ZX0bYAv7?si=EbQB7GEETV-nLPkTdVU-sw)- Recommend Episode 3 Introduction to Behavioural Science and Episode 7 Agile employee experience 
