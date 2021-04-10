@@ -2,13 +2,14 @@
 
 Hello everyone, Im [Robbie](https://www.linkedin.com/in/robbiecraigsimpson/)
 
-Currently im working for HelloFresh in their Data team, mainly recruiting for our Berlin office.
+Currently i'm working for HelloFresh in their Data team, mainly recruiting for our Berlin office. 
 
-I decided to formalise this list after my bookmarks were getting a bit out of hand. Inspired by [awesome-recruitment](https://github.com/Sjamilla/awesome-recruitment) github. I have created a list of resources in which I use frequently or want to remember for future reference 
+I decided to formalise this list after my bookmarks were getting a bit out of hand. Inspired by [awesome-recruitment](https://github.com/Sjamilla/awesome-recruitment) github. I have created a list of resources in which I use frequently or want to remember for future reference. Although the list is primarily for me, I decided to make it public as it might be useful for others, if you have any feedback etc please feel free to find me on [Linkedin](https://www.linkedin.com/in/robbiecraigsimpson/)
 
-If you are looking for something more extensive the [awesome-recruitment](https://github.com/Sjamilla/awesome-recruitment) by Sjamilla  has a far more indepth set of resources, some of mine ive found through that list. 
+If you are looking for something more extensive the [awesome-recruitment](https://github.com/Sjamilla/awesome-recruitment) by Sjamilla  has a far more indepth set of resources, some of mine i've found through that list. 
 
-Because the purpose of the list is more to self-organise  you might notice resource links being deleted/changed over time so please bookmark/make your own list if you find something useful!
+Because the purpose of the list is more to self-organise you might notice resource links being deleted/changed over time so please bookmark/make your own list if you find something useful!
+
 
 ___
 
@@ -53,7 +54,7 @@ ___
 - [Intro to creating an inclusive workplace](https://www.tinypulse.com/blog/diversity-inclusion-at-work-employee-survey-question?utm_medium=email&_hsmi=116088395&_hsenc=p2ANqtz-9oBfFiOOzycUdD9HIocV8bS2o1WHFsqxMh7Xit3lHUMltU9FZj86DVk52cidggrM6VahHXoffixXfV658tr_B6SQbIQg&utm_content=116084881&utm_source=hs_email)
 - [Medium page](https://medium.com/diversity-inclusion)
 - [Gender Decoder](http://gender-decoder.katmatfield.com/)
--  
+
 ## 💪  Interview questions 
 - [Recruitment Questions by a Hiring Manager](https://jacobian.org/series/unpacking-interview-questions/?utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter)
 - [Interview questions from Workable](https://resources.workable.com/interview-questions/) 
