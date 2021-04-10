@@ -11,7 +11,16 @@ If you are looking for something more extensive the [awesome-recruitment](https:
 Because the purpose of the list is more to self-organise  you might notice resource links being deleted/changed over time so please bookmark/make your own list if you find something useful!
 
 ___
-## Section
+
+## 🔥Top 5 
+- [Interview questions from Workable](https://resources.workable.com/interview-questions/)
+- [Calling bullshit: The art of Skepticism in a Data-Driven World](https://www.amazon.de/gp/product/0593229762/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
+- [Instant Scraper](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah)
+- [Trello](https://trello.com/)
+- [Recruitment brain food](https://www.recruitingbrainfood.com/)
+
+
+## Sections
 * 🗣️ [Podcasts](https://github.com/rsimHF/Recruitment-Resources/blob/main/README.md#%EF%B8%8F--podcasts)         
 * 😍 [Diversity and Inclusion ](https://github.com/rsimHF/Recruitment-Resources#--diversity-and-inclusion)
 * 💪 [Interview questions](https://github.com/rsimHF/Recruitment-Resources#--interview-questions)
