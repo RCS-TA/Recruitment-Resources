@@ -10,6 +10,7 @@ If you are looking for something more extensive the [awesome-recruitment](https:
 
 Because the purpose of the list is more to self-organise  you might notice resource links being deleted/changed over time so please bookmark/make your own list if you find something useful!
 
+___
 Section
 * 🗣️ [Podcasts](https://github.com/rsimHF/Recruitment-Resources/blob/main/README.md#%EF%B8%8F--podcasts)
 * 😍 [Diversity and Inclusion ](https://github.com/rsimHF/Recruitment-Resources#--diversity-and-inclusion)
@@ -18,7 +19,7 @@ Section
 * 📋 [Job Boards](https://github.com/rsimHF/Recruitment-Resources#-job-boards)
 * ⏲️ [Productivity](https://github.com/rsimHF/Recruitment-Resources#%EF%B8%8F-productivity)
 * 🔨 [Recruitment Tools](https://github.com/rsimHF/Recruitment-Resources#-recruitment-tools)
-* 
+* 🤯 [Random](https://github.com/rsimHF/Recruitment-Resources/blob/main/README.md#random)
 
 
 
@@ -98,7 +99,7 @@ Section
 -  [Joblint](https://joblint.org/)
 -  [Be Applied](https://textanalysis.beapplied.com/)
 
-## Random
+## 🤯 Random
 - [Lay offs](http://layoffs.fyi/)
 - [Slack communities](https://airtable.com/universe/expRhUQt5YsHhMdhO/the-full-list-of-slack-communities?explore=true)
 - [Tech Slack communities](https://toggl.com/blog/candidate-sourcing)
