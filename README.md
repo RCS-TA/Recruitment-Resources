@@ -12,10 +12,10 @@ Because the purpose of the list is more to self-organise  you might notice resou
 
 
 ## 🗣️  Podcasts 
-- [Potential in People](https://open.spotify.com/show/4KzfLMXamIlP74ZX0bYAv7?si=EbQB7GEETV-nLPkTdVU-sw)/
+- [Potential in People](https://open.spotify.com/show/4KzfLMXamIlP74ZX0bYAv7?si=EbQB7GEETV-nLPkTdVU-sw)- Recommend Episode 3 Introduction to Behavioural Science and Episode 7 Agile employee experience 
 - [Coffee with a recruiter](https://open.spotify.com/show/048o7UfTAigaNVqCfab4V8?si=4M8C4CtbTwyDOpC-WqbOrw)
-- [The recruiting brainfood podcast](https://open.spotify.com/show/3dFBspf9jXwpnJPLwSd72u?si=GkD0_NPhS52ifW2b6O6zKg)
-- [Master of Product Management](https://open.spotify.com/episode/5snQ7mdIpaZm9xyXiObRsg?si=Kc99TNKARjWVaFke3gekog)
+- [The recruiting brainfood podcast](https://open.spotify.com/show/3dFBspf9jXwpnJPLwSd72u?si=GkD0_NPhS52ifW2b6O6zKg)- Episode 103, Measuring employee experience, Episode 100 How to reject candidates, Episode 97 How to get D&I out of HR and into the business 
+- [Master of Product Management](https://open.spotify.com/episode/5snQ7mdIpaZm9xyXiObRsg?si=Kc99TNKARjWVaFke3gekog)- How to build effect internal products, more HR focussed than strictly recruitment 
 - [Hiring on all cyclinders](https://www.entelo.com/podcasts/)
 - [Are we automating racism?](https://www.youtube.com/watch?v=Ok5sKLXqynQ)
 - [Huge list of Podcasts](https://www.recruitingbrainfood.com/big-list-of-podcasts/?utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter)
@@ -29,14 +29,15 @@ Because the purpose of the list is more to self-organise  you might notice resou
 -  
 ## 💪  Interview questions 
 - [Recruitment Questions by a Hiring Manager](https://jacobian.org/series/unpacking-interview-questions/?utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter)
-- [Interview questions from Workable](https://resources.workable.com/interview-questions/)
+- [Interview questions from Workable](https://resources.workable.com/interview-questions/) - Extensive list of interview Questions 
 - [Techinal Interview questions](https://github.com/DopplerHQ/awesome-interview-questions)
 
 ## 📖  Books 
-- [Full stack recruiter](https://www.amazon.com/Full-Stack-Recruiter-Modern-Recruiters/dp/1976130735)
+- [Full stack recruiter](https://www.amazon.com/Full-Stack-Recruiter-Modern-Recruiters/dp/1976130735) - Recommend for new recruiters or to have on your desk to refer to, it isnt a sit down and read
 - [The lean startup](https://www.amazon.de/gp/product/0670921602/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
-- [Deep Work](https://www.amazon.de/gp/product/0349411905/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
-- [Calling bullshit: The art of Skepticism in a Data-Driven World](https://www.amazon.de/gp/product/0593229762/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) 
+- [Deep Work](https://www.amazon.de/gp/product/0349411905/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) - Highly recommend 
+- [Calling bullshit: The art of Skepticism in a Data-Driven World](https://www.amazon.de/gp/product/0593229762/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) - Great book for everybody who is trying to take a more data-driven approach to recruitment 
+- [The Chimp Paradox](https://www.amazon.de/-/en/Prof-Steve-Peters/dp/178504057X/ref=sr_1_1?adgrpid=80980547726&dchild=1&gclid=Cj0KCQjwmcWDBhCOARIsALgJ2Qfc8PU1SxTRziwOiVVhWgvJ4-dKTIsJCokkbhIHmrtKaeqKRGKYKjQaAlg7EALw_wcB&hvadid=394700427818&hvdev=c&hvlocphy=9061136&hvnetw=g&hvqmt=b&hvrand=3147959144523281261&hvtargid=kwd-295708607959&hydadcr=24467_1811986&keywords=the+chimp+paradox&qid=1618069204&sr=8-1) - A must read for me every year especially if I find myself in a slump
 
 
 ### 👀  Blogs
