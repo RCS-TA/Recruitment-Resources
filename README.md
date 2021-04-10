@@ -20,7 +20,7 @@ ___
 - [Recruitment brain food](https://www.recruitingbrainfood.com/)
 
 
-## 🌠Sections
+## ✨Sections
 * 🗣️ [Podcasts](https://github.com/rsimHF/Recruitment-Resources/blob/main/README.md#%EF%B8%8F--podcasts)         
 * 😍 [Diversity and Inclusion ](https://github.com/rsimHF/Recruitment-Resources#--diversity-and-inclusion)
 * 💪 [Interview questions](https://github.com/rsimHF/Recruitment-Resources#--interview-questions)
