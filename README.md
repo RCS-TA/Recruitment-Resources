@@ -21,7 +21,7 @@ Because the purpose of the list is more to self-organise  you might notice resou
 - [Huge list of Podcasts](https://www.recruitingbrainfood.com/big-list-of-podcasts/?utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter)
 
 ## 😍  Diversity and Inclusion 
-- [Are we automating racism?](https://www.youtube.com/watch?v=Ok5sKLXqynQ)
+- [Are we automating racism?](https://www.youtube.com/watch?v=Ok5sKLXqynQ) 
 - [Woman in Tech](https://www.womentech.net/)
 - [Intro to creating an inclusive workplace](https://www.tinypulse.com/blog/diversity-inclusion-at-work-employee-survey-question?utm_medium=email&_hsmi=116088395&_hsenc=p2ANqtz-9oBfFiOOzycUdD9HIocV8bS2o1WHFsqxMh7Xit3lHUMltU9FZj86DVk52cidggrM6VahHXoffixXfV658tr_B6SQbIQg&utm_content=116084881&utm_source=hs_email)
 - [Medium page](https://medium.com/diversity-inclusion)
@@ -41,7 +41,7 @@ Because the purpose of the list is more to self-organise  you might notice resou
 
 
 ### 👀  Blogs
-- [Recruitment brain food](https://www.recruitingbrainfood.com/)
+- [Recruitment brain food](https://www.recruitingbrainfood.com/) - Should be a staple in everybodies inbox, most wont be relevant to you but you will get one or two articles every week or so that are super intesting 
 - [Amazing Hiring](https://amazinghiring.com/blog/)
 - [Boolean Blackbelt](http://booleanblackbelt.com/)
 
@@ -49,7 +49,7 @@ Because the purpose of the list is more to self-organise  you might notice resou
 - [DocuSign- How to use data to motivate,engage and show its recruiting team some love](https://business.linkedin.com/talent-solutions/blog/talent-analytics/2017/how-docusign-used-data-to-motivate-engage-and-show-its-recruiting-team_)
 - [Why Spotify doesnt use the spotify model](https://www.jeremiahlee.com/posts/failed-squad-goals/)
 - [How typeform reduced hiring times by 43%](https://www.typeform.com/blog/inside-story/time-to-hire/?fbclid=IwAR0LM6d7euCO9BmgpmZ9br9Us9g66sJNBJe_ozzliRYui557A4eMWAXKe10&utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter)
-### Recruitment as a product 
+#### Recruitment as a product 
 - [A Product Mindset for Internal Recruitment](https://medium.com/swlh/a-product-mindset-for-internal-recruitment-b2e659934ba2_)
 - [Recruitment as Product](https://dasbarrett.medium.com/recruitment-as-a-product-7d280f699d45)
 
@@ -59,26 +59,25 @@ Because the purpose of the list is more to self-organise  you might notice resou
 - [Huge list of Job-boards](https://www.recruitingbrainfood.com/big-list-of-places-to-post-jobs-globally/)
 
 ## ⏲️ Productivity 
-- [Deep Work](https://www.amazon.de/gp/product/0349411905/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
-- [Getting Things done](https://www.amazon.de/gp/product/0349423148/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
-- [Calling bullshit: The art of Skepticism in a Data-Driven World](https://www.amazon.de/gp/product/0593229762/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) 
-- [My Ally](https://www.myally.ai/)
+- [Deep Work](https://www.amazon.de/gp/product/0349411905/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) - Highly recommend 
+- [Getting Things done](https://www.amazon.de/gp/product/0349423148/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1) - A bit cheesy and preachy at times but can help you think intrespectively about your work and make changes 
+- [My Ally](https://www.myally.ai/) - Highly recommend 
 - [Calendly](https://calendly.com/)
 - [Boomerang](https://boomerangcalendar.com/)
 
 
 ## 🔨 Recruitment Tools
 - [Finding e-mails through Github](https://www.sourcecon.com/how-to-find-almost-any-github-users-email-address-2-0/_)
-- [Amazing Hiring](https://chrome.google.com/webstore/detail/amazinghiring/didkfdopbffjkpolefhpcjkohcpalicd?hl=en)
-- [Boolean string generator](https://scoperac.com/booleanstringbank/)
-- [X-Ray search creator](https://recruitin.net/)
+- [Amazing Hiring](https://chrome.google.com/webstore/detail/amazinghiring/didkfdopbffjkpolefhpcjkohcpalicd?hl=en) - Typically best for Product, UI and Frontend roles
+- [Boolean string generator](https://scoperac.com/booleanstringbank/) - Can be used as a good training tool or to glance at before intake meetings
+- [X-Ray search creator](https://recruitin.net/) 
 
 
 ### Webscrapers
-- [Instant Scraper](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah)
+- [Instant Scraper](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah) - I prefer this, works superwell with meetups etc
 - [Data Scraper](https://chrome.google.com/webstore/detail/data-scraper-easy-web-scr/nndknepjnldbdbepjfgmncbggmopgden)
 
-### 🧠Githubs 
+### 🧠Github tools
 - [Octo HR](https://chrome.google.com/webstore/detail/octohr/beiklbdjdmfkgchmiabjejdlpaoicbef/related)
 - [Git Awards](http://git-awards.com/)
 
