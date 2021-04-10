@@ -59,7 +59,7 @@ ___
 - [Recruitment Questions by a Hiring Manager](https://jacobian.org/series/unpacking-interview-questions/?utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter)
 - [Interview questions from Workable](https://resources.workable.com/interview-questions/) 
   - Extensive list of interview Questions 
-- [Techinal Interview questions](https://github.com/DopplerHQ/awesome-interview-questions)
+- [Technical Interview questions](https://github.com/DopplerHQ/awesome-interview-questions)
 
 ## 📖  Books 
 - [Full stack recruiter](https://www.amazon.com/Full-Stack-Recruiter-Modern-Recruiters/dp/1976130735) 
@@ -75,7 +75,7 @@ ___
 
 ### 👀  Blogs
 - [Recruitment brain food](https://www.recruitingbrainfood.com/) 
-    - Should be a staple in everybodies inbox, most wont be relevant to you but you will get one or two articles every week or so that are super intesting 
+    - Should be a staple in everybodies inbox, most wont be relevant to you but you will get one or two articles every week or so that are super interesting 
 - [Amazing Hiring](https://amazinghiring.com/blog/)
 - [Boolean Blackbelt](http://booleanblackbelt.com/)
 
@@ -97,7 +97,7 @@ ___
 - [Deep Work](https://www.amazon.de/gp/product/0349411905/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) 
    - Highly recommend 
 - [Getting Things done](https://www.amazon.de/gp/product/0349423148/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1) 
-    - A bit cheesy and preachy at times but can help you think intrespectively about your work and make changes 
+    - A bit cheesy and preachy at times but can help you think introspectively about your work and make changes 
 - [My Ally](https://www.myally.ai/) 
     - Highly recommend 
 - [Calendly](https://calendly.com/)
