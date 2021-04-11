@@ -85,6 +85,7 @@ ___
 - [How typeform reduced hiring times by 43%](https://www.typeform.com/blog/inside-story/time-to-hire/?fbclid=IwAR0LM6d7euCO9BmgpmZ9br9Us9g66sJNBJe_ozzliRYui557A4eMWAXKe10&utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter)
 - [A Product Mindset for Internal Recruitment](https://medium.com/swlh/a-product-mindset-for-internal-recruitment-b2e659934ba2_)
 - [Recruitment as Product](https://dasbarrett.medium.com/recruitment-as-a-product-7d280f699d45)
+- [How to Write the best headlines](https://buzzsumo.com/resources/hundred-million-best-headlines-study/view/?utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter#digital-content)
 
 
 
