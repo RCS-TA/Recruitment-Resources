@@ -50,6 +50,7 @@ ___
 
 ## 😍  Diversity and Inclusion 
 - [Are we automating racism?](https://www.youtube.com/watch?v=Ok5sKLXqynQ) 
+   - 20 minute Vox video something to always consider when being pitched
 - [Woman in Tech](https://www.womentech.net/)
 - [Intro to creating an inclusive workplace](https://www.tinypulse.com/blog/diversity-inclusion-at-work-employee-survey-question?utm_medium=email&_hsmi=116088395&_hsenc=p2ANqtz-9oBfFiOOzycUdD9HIocV8bS2o1WHFsqxMh7Xit3lHUMltU9FZj86DVk52cidggrM6VahHXoffixXfV658tr_B6SQbIQg&utm_content=116084881&utm_source=hs_email)
 - [Medium page](https://medium.com/diversity-inclusion)
