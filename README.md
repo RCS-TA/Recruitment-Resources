@@ -47,6 +47,7 @@ ___
 - [Hiring on all cyclinders](https://www.entelo.com/podcasts/)
 - [Are we automating racism?](https://www.youtube.com/watch?v=Ok5sKLXqynQ)
 - [Huge list of Podcasts](https://www.recruitingbrainfood.com/big-list-of-podcasts/?utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter)
+- [better hiring](https://betterhiring.buzzsprout.com/)
 
 ## 😍  Diversity and Inclusion 
 - [Are we automating racism?](https://www.youtube.com/watch?v=Ok5sKLXqynQ) 
