@@ -92,6 +92,8 @@ ___
     - Worth a read but you have to consider the ethical clickbait that it ends up suggesting   
     
  - [5 Types of imposter syndrome](https://www.hrmonline.com.au/section/strategic-hr/five-types-imposter-syndrome-how-to-manage-them/?fbclid=IwAR1rgQ3akr4DTA9x8OZpMONLuFK5X2QCVxJF8ohpxyYBWDxI-MKrQ0DYoPY&utm_campaign=EDM&utm_medium=email&utm_source=Informz)
+- [Recruitment key metrics wiki with sources](https://www.hcmi.co/post/recruitment-benchmarks?utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter) 
+- 
 
 
 
