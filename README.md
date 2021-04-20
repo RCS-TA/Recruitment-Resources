@@ -48,6 +48,7 @@ ___
 - [Are we automating racism?](https://www.youtube.com/watch?v=Ok5sKLXqynQ)
 - [Huge list of Podcasts](https://www.recruitingbrainfood.com/big-list-of-podcasts/?utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter)
 - [Better hiring](https://betterhiring.buzzsprout.com/)
+- [Building an Anti-racist workplace](https://open.spotify.com/episode/13LAuqU4Pn2nCiAuM76qyL?si=3XxYuqhLRJi6HgGe6-KFLQ)
 
 ## 😍  Diversity and Inclusion 
 - [Are we automating racism?](https://www.youtube.com/watch?v=Ok5sKLXqynQ) 
@@ -56,6 +57,7 @@ ___
 - [Intro to creating an inclusive workplace](https://www.tinypulse.com/blog/diversity-inclusion-at-work-employee-survey-question?utm_medium=email&_hsmi=116088395&_hsenc=p2ANqtz-9oBfFiOOzycUdD9HIocV8bS2o1WHFsqxMh7Xit3lHUMltU9FZj86DVk52cidggrM6VahHXoffixXfV658tr_B6SQbIQg&utm_content=116084881&utm_source=hs_email)
 - [Medium page](https://medium.com/diversity-inclusion)
 - [Gender Decoder](http://gender-decoder.katmatfield.com/)
+- [Building an Anti-racist workplace](https://open.spotify.com/episode/13LAuqU4Pn2nCiAuM76qyL?si=3XxYuqhLRJi6HgGe6-KFLQ)
 
 ## 💪  Interview questions 
 - [Recruitment Questions by a Hiring Manager](https://jacobian.org/series/unpacking-interview-questions/?utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter)
