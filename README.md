@@ -140,3 +140,4 @@ ___
 - [Lay offs](http://layoffs.fyi/)
 - [Slack communities](https://airtable.com/universe/expRhUQt5YsHhMdhO/the-full-list-of-slack-communities?explore=true)
 - [Tech Slack communities](https://toggl.com/blog/candidate-sourcing)
+- [Ladies in Devops](https://ladiesindevops.com/)
