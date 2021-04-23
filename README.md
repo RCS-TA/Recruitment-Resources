@@ -92,6 +92,7 @@ ___
 - [Recruitment as Product](https://dasbarrett.medium.com/recruitment-as-a-product-7d280f699d45)
 - [How to Write the best headlines](https://buzzsumo.com/resources/hundred-million-best-headlines-study/view/?utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter#digital-content)
     - Worth a read but you have to consider the ethical clickbait that it ends up suggesting   
+- [Which Linkedin Inmails get the best response](https://business.linkedin.com/talent-solutions/blog/trends-and-research/2021/these-inmails-get-best-response-rates?utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter)
     
  - [5 Types of imposter syndrome](https://www.hrmonline.com.au/section/strategic-hr/five-types-imposter-syndrome-how-to-manage-them/?fbclid=IwAR1rgQ3akr4DTA9x8OZpMONLuFK5X2QCVxJF8ohpxyYBWDxI-MKrQ0DYoPY&utm_campaign=EDM&utm_medium=email&utm_source=Informz)
 - [Recruitment key metrics wiki with sources](https://www.hcmi.co/post/recruitment-benchmarks?utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter) 
