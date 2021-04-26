@@ -84,6 +84,7 @@ ___
 - [Boolean Blackbelt](http://booleanblackbelt.com/)
 
 ### 📰  Interesting articles
+-[Recruitment Brainfood Artcile database](https://larder.recruitingbrainfood.com/?utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter)
 - [DocuSign- How to use data to motivate,engage and show its recruiting team some love](https://business.linkedin.com/talent-solutions/blog/talent-analytics/2017/how-docusign-used-data-to-motivate-engage-and-show-its-recruiting-team_)
     - interesting read about measuring recruiters who work various roles   
 - [Why Spotify doesnt use the spotify model](https://www.jeremiahlee.com/posts/failed-squad-goals/)
