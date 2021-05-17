@@ -97,7 +97,7 @@ ___
     
  - [5 Types of imposter syndrome](https://www.hrmonline.com.au/section/strategic-hr/five-types-imposter-syndrome-how-to-manage-them/?fbclid=IwAR1rgQ3akr4DTA9x8OZpMONLuFK5X2QCVxJF8ohpxyYBWDxI-MKrQ0DYoPY&utm_campaign=EDM&utm_medium=email&utm_source=Informz)
 - [Recruitment key metrics wiki with sources](https://www.hcmi.co/post/recruitment-benchmarks?utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter) 
--[Non-IPO Equity Calculator](https://www.indexventures.com/optionplan/?utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter#expected_funding_rounds_pre_exit=series-b-and-c&employee_country=us&mode=seed)
+- [Non-IPO Equity Calculator](https://www.indexventures.com/optionplan/?utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter#expected_funding_rounds_pre_exit=series-b-and-c&employee_country=us&mode=seed)
 
 
 
