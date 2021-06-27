@@ -64,6 +64,7 @@ ___
 - [Interview questions from Workable](https://resources.workable.com/interview-questions/) 
   - Extensive list of interview Questions 
 - [Technical Interview questions](https://github.com/DopplerHQ/awesome-interview-questions)
+-  [Data Science Recruitment questions](https://avinashnavlani.medium.com/data-science-interview-questions-part-1-42847acfd4bd) 
 
 ## 📖  Books 
 - [Full stack recruiter](https://www.amazon.com/Full-Stack-Recruiter-Modern-Recruiters/dp/1976130735) 
@@ -75,7 +76,7 @@ ___
     -   Great book for everybody who is trying to take a more data-driven approach to recruitment 
 - [The Chimp Paradox](https://www.amazon.de/-/en/Prof-Steve-Peters/dp/178504057X/ref=sr_1_1?adgrpid=80980547726&dchild=1&gclid=Cj0KCQjwmcWDBhCOARIsALgJ2Qfc8PU1SxTRziwOiVVhWgvJ4-dKTIsJCokkbhIHmrtKaeqKRGKYKjQaAlg7EALw_wcB&hvadid=394700427818&hvdev=c&hvlocphy=9061136&hvnetw=g&hvqmt=b&hvrand=3147959144523281261&hvtargid=kwd-295708607959&hydadcr=24467_1811986&keywords=the+chimp+paradox&qid=1618069204&sr=8-1) 
     - A must read for me every year especially if I find myself in a slump
-- [Data Science Recruitment questions](https://avinashnavlani.medium.com/data-science-interview-questions-part-1-42847acfd4bd) 
+
 
 
 ### 👀  Blogs
