@@ -101,6 +101,7 @@ ___
 - [Recruitment key metrics wiki with sources](https://www.hcmi.co/post/recruitment-benchmarks?utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter) 
 - [Non-IPO Equity Calculator](https://www.indexventures.com/optionplan/?utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter#expected_funding_rounds_pre_exit=series-b-and-c&employee_country=us&mode=seed)
 - [Tech in Africa](https://www.readthegeneralist.com/briefing/africa) 
+- [How to Quanitfy bad candidate experience](https://blog.jantegze.com/bad-candidate-experience-is-expensive-de0a2d4c21cf) 
 
 
 
