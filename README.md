@@ -86,6 +86,7 @@ ___
     - Should be a staple in everybodies inbox, most wont be relevant to you but you will get one or two articles every week or so that are super interesting 
 - [Amazing Hiring](https://amazinghiring.com/blog/)
 - [Boolean Blackbelt](http://booleanblackbelt.com/)
+- [Boolean Strings](https://booleanstrings.com/) Blog by Irina Shamaeva
 
 ### 📰  Interesting articles
 - [Recruitment Brainfood Artcile database](https://larder.recruitingbrainfood.com/?utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter)
