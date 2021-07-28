@@ -130,6 +130,7 @@ ___
 - [Boolean string generator](https://scoperac.com/booleanstringbank/) 
     - Can be used as a good training tool or to glance at before intake meetings
 - [X-Ray search creator](https://recruitin.net/) 
+- [Sourcing checklist](https://trello.com/b/Q7gMpWcO/sourcing-checklist-by-morgane-conrad-last-edit-june17-2021-glossary-tech-added)
 
 
 ### 🕷️Webscrapers
