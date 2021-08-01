@@ -91,7 +91,7 @@ ___
 ### 📰  Interesting articles
 - [Recruitment Brainfood Artcile database](https://larder.recruitingbrainfood.com/?utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter)
 - [DocuSign- How to use data to motivate,engage and show its recruiting team some love](https://www.linkedin.com/business/talent/blog/talent-analytics/how-docusign-used-data)
-- [Linkedin talent blogs] (https://business.linkedin.com/talent-solutions/blog/talent-analytics/2017/how-docusign-used-data-to-motivate-engage-and-show-its-recruiting-team_)
+- [Linkedin talent blogs](https://business.linkedin.com/talent-solutions/blog/talent-analytics/2017/how-docusign-used-data-to-motivate-engage-and-show-its-recruiting-team_)
     - interesting read about measuring recruiters who work various roles   
 - [Why Spotify doesnt use the spotify model](https://www.jeremiahlee.com/posts/failed-squad-goals/)
 - [How typeform reduced hiring times by 43%](https://www.typeform.com/blog/inside-story/time-to-hire/?fbclid=IwAR0LM6d7euCO9BmgpmZ9br9Us9g66sJNBJe_ozzliRYui557A4eMWAXKe10&utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter)
