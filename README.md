@@ -49,6 +49,7 @@ ___
 - [Huge list of Podcasts](https://www.recruitingbrainfood.com/big-list-of-podcasts/?utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter)
 - [Better hiring](https://betterhiring.buzzsprout.com/)
 - [Building an Anti-racist workplace](https://open.spotify.com/episode/13LAuqU4Pn2nCiAuM76qyL?si=3XxYuqhLRJi6HgGe6-KFLQ)
+- [How to Trust people you dont like](https://open.spotify.com/episode/3pOvrpwRcY1xsCah38dnjy?si=hxrOsgpMS9-G54fEhTck3Q&dl_branch=1) 
 
 ## 😍  Diversity and Inclusion 
 - [Are we automating racism?](https://www.youtube.com/watch?v=Ok5sKLXqynQ) 
