@@ -56,6 +56,7 @@ ___
    - 20 minute Vox video something to always consider when being pitched
 - [Woman in Tech](https://www.womentech.net/)
 - [Invisible Woman](https://www.amazon.de/-/en/Caroline-Criado-Perez/dp/1784706280/ref=sr_1_1?crid=3TUOP8K2X6SSD&dchild=1&keywords=invisible+woman&qid=1626675444&sprefix=invisible+woman%2Caps%2C173&sr=8-1)
+- [Large list of resources](https://start.me/p/ELkLLy/big-list-of-diversity-resources-for-everyone?utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter)
 
 - [Intro to creating an inclusive workplace](https://www.tinypulse.com/blog/diversity-inclusion-at-work-employee-survey-question?utm_medium=email&_hsmi=116088395&_hsenc=p2ANqtz-9oBfFiOOzycUdD9HIocV8bS2o1WHFsqxMh7Xit3lHUMltU9FZj86DVk52cidggrM6VahHXoffixXfV658tr_B6SQbIQg&utm_content=116084881&utm_source=hs_email)
 - [Medium page](https://medium.com/diversity-inclusion)
