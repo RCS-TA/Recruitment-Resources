@@ -81,6 +81,7 @@ ___
 - [The Chimp Paradox](https://www.amazon.de/-/en/Prof-Steve-Peters/dp/178504057X/ref=sr_1_1?adgrpid=80980547726&dchild=1&gclid=Cj0KCQjwmcWDBhCOARIsALgJ2Qfc8PU1SxTRziwOiVVhWgvJ4-dKTIsJCokkbhIHmrtKaeqKRGKYKjQaAlg7EALw_wcB&hvadid=394700427818&hvdev=c&hvlocphy=9061136&hvnetw=g&hvqmt=b&hvrand=3147959144523281261&hvtargid=kwd-295708607959&hydadcr=24467_1811986&keywords=the+chimp+paradox&qid=1618069204&sr=8-1) 
     - A must read for me every year especially if I find myself in a slump
 - [Invisible Woman](https://www.amazon.de/-/en/Caroline-Criado-Perez/dp/1784706280/ref=sr_1_1?crid=3TUOP8K2X6SSD&dchild=1&keywords=invisible+woman&qid=1626675444&sprefix=invisible+woman%2Caps%2C173&sr=8-1)
+- [Culture Map](https://www.amazon.de/Culture-Map-Decoding-People-Cultures/dp/1610392760/ref=asc_df_1610392760/?tag=googshopde-21&linkCode=df0&hvadid=310779890634&hvpos=&hvnetw=g&hvrand=1075669790212815457&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9043090&hvtargid=pla-525261842565&psc=1&th=1&psc=1&tag=&ref=&adgrpid=70301320708&hvpone=&hvptwo=&hvadid=310779890634&hvpos=&hvnetw=g&hvrand=1075669790212815457&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9043090&hvtargid=pla-525261842565)
 
 
 ### 👀  Blogs
@@ -89,6 +90,7 @@ ___
 - [Amazing Hiring](https://amazinghiring.com/blog/)
 - [Boolean Blackbelt](http://booleanblackbelt.com/)
 - [Boolean Strings](https://booleanstrings.com/) Blog by Irina Shamaeva
+- [How Amazon Communicates](https://joefletcher.medium.com/7-tips-for-better-communication-32cbe84c8ddf)
 
 ### 📰  Interesting articles
 - [Recruitment Brainfood Artcile database](https://larder.recruitingbrainfood.com/?utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter)
