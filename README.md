@@ -91,6 +91,7 @@ ___
 - [Boolean Blackbelt](http://booleanblackbelt.com/)
 - [Boolean Strings](https://booleanstrings.com/) Blog by Irina Shamaeva
 - [How Amazon Communicates](https://joefletcher.medium.com/7-tips-for-better-communication-32cbe84c8ddf)
+- [Secretary Rule](https://en.wikipedia.org/wiki/Secretary_problem)Theory which can help with push back on hiring managers 
 
 ### 📰  Interesting articles
 - [Recruitment Brainfood Artcile database](https://larder.recruitingbrainfood.com/?utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter)
