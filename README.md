@@ -94,6 +94,7 @@ ___
 - [Secretary Rule](https://en.wikipedia.org/wiki/Secretary_problem)Theory which can help with push back on hiring managers 
 - [Secretary Rule 2](https://www.cantorsparadise.com/math-based-decision-making-the-secretary-problem-a30e301d8489)
 - [Executive Communication](https://joefletcher.medium.com/7-tips-for-better-communication-32cbe84c8ddf)
+- [Marko Polo Ai Talent Tracker](https://macropolo.org/digital-projects/the-global-ai-talent-tracker/)
 
 ### 📰  Interesting articles
 - [Recruitment Brainfood Artcile database](https://larder.recruitingbrainfood.com/?utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter)
