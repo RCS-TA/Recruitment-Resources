@@ -96,7 +96,7 @@ ___
 - [Executive Communication](https://joefletcher.medium.com/7-tips-for-better-communication-32cbe84c8ddf)
 - [Marko Polo Ai Talent Tracker](https://macropolo.org/digital-projects/the-global-ai-talent-tracker/)
 - [How Zalando uses data for hypergrowth](https://hyperight.com/using-data-in-hyper-growth-recruiting-mode-how-zalando-does-it/)
-- [How to Write like Amazon](https://www.inc.com/jeff-haden/how-does-a-company-worth-over-1-trillion-teach-its-employees-to-communicate-5-ways-to-write-like-amazon.html)
+
 
 ### 📰  Interesting articles
 - [Recruitment Brainfood Artcile database](https://larder.recruitingbrainfood.com/?utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter)
@@ -117,6 +117,7 @@ ___
 - [Tech in Africa](https://www.readthegeneralist.com/briefing/africa) 
 - [How to Quanitfy bad candidate experience](https://blog.jantegze.com/bad-candidate-experience-is-expensive-de0a2d4c21cf) 
 - [12 Competencies Shared by Exceptional Recruiters, According to LinkedIn’s Recruiting Leaders](https://www.linkedin.com/business/talent/blog/talent-strategy/competencies-shared-by-exceptional-recruiters?utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter)
+- [How to Write like Amazon](https://www.inc.com/jeff-haden/how-does-a-company-worth-over-1-trillion-teach-its-employees-to-communicate-5-ways-to-write-like-amazon.html) More tips on better communication 
 
 
 ## 📋 Job Boards 
