@@ -2,7 +2,7 @@
 
 Hello everyone, Im [Robbie](https://www.linkedin.com/in/robbiecraigsimpson/)
 
-Currently i'm working for HelloFresh in their Data team, mainly recruiting for our Berlin office. 
+Currently i'm working for HelloFresh leading up thier Global mobile and frontend recruitment team 
 
 I decided to formalise this list after my bookmarks were getting a bit out of hand. Inspired by [awesome-recruitment](https://github.com/Sjamilla/awesome-recruitment) github. I have created a list of resources in which I use frequently or want to remember for future reference. Although the list is primarily for me, I decided to make it public as it might be useful for others, if you have any feedback etc please feel free to find me on [Linkedin](https://www.linkedin.com/in/robbiecraigsimpson/)
 
