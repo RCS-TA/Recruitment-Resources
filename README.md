@@ -18,7 +18,8 @@ ___
 - [Calling bullshit: The art of Skepticism in a Data-Driven World](https://www.amazon.de/gp/product/0593229762/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
 - [Instant Scraper](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah)
 - [Trello](https://trello.com/)
-- [Recruitment brain food](https://www.recruitingbrainfood.com/)
+- [TA Tech Radar](https://www.hellofresh.com/careers/talent-acquisition-tech-radar/)
+    - All the TA tech used at HelloFresh
 
 
 ## ✨Sections
