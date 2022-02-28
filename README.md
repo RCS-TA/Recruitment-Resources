@@ -120,6 +120,7 @@ ___
 - [How to Quanitfy bad candidate experience](https://blog.jantegze.com/bad-candidate-experience-is-expensive-de0a2d4c21cf) 
 - [12 Competencies Shared by Exceptional Recruiters, According to LinkedIn’s Recruiting Leaders](https://www.linkedin.com/business/talent/blog/talent-strategy/competencies-shared-by-exceptional-recruiters?utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter)
 - [How to Write like Amazon](https://www.inc.com/jeff-haden/how-does-a-company-worth-over-1-trillion-teach-its-employees-to-communicate-5-ways-to-write-like-amazon.html) More tips on better communication 
+- [Measuring and managing performance](https://www.aihr.com/blog/9-box-grid/#:~:text=The%20nine%2Dbox%20consists%20of,scored%20on%20this%20performance%20scale.&text=Low%20performance)
 
 
 ## 📋 Job Boards 
