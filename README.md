@@ -97,7 +97,8 @@ ___
 - [Executive Communication](https://joefletcher.medium.com/7-tips-for-better-communication-32cbe84c8ddf)
 - [Marko Polo Ai Talent Tracker](https://macropolo.org/digital-projects/the-global-ai-talent-tracker/)
 - [How Zalando uses data for hypergrowth](https://hyperight.com/using-data-in-hyper-growth-recruiting-mode-how-zalando-does-it/)
-
+- [FeedForward](https://tandemhr.com/feedforward-vs-feedback/#:~:text=Feedforward%20is%20the%20reverse%20exercise,future%20instead%20of%20the%20past.)
+    - How to change your feedback style to get better results 
 
 ### 📰  Interesting articles
 - [Recruitment Brainfood Artcile database](https://larder.recruitingbrainfood.com/?utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter)
