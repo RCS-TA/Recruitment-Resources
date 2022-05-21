@@ -124,6 +124,7 @@ ___
 - [How to Write like Amazon](https://www.inc.com/jeff-haden/how-does-a-company-worth-over-1-trillion-teach-its-employees-to-communicate-5-ways-to-write-like-amazon.html) More tips on better communication 
 - [Measuring and managing performance](https://www.aihr.com/blog/9-box-grid/#:~:text=The%20nine%2Dbox%20consists%20of,scored%20on%20this%20performance%20scale.&text=Low%20performance)
 - [The art of relocating](https://relocate.me/blog/recruiting-hiring-advice/the-art-of-relocating-tech-talent-post-pandemic/?fbclid=IwAR2lQdQOYtPu_PdQ4ZBp1RBAAIZUk-vICAGL2Y7K1vp9wkCReg8n6Xzhnpk&utm_campaign=Recruiting%20Brainfood&utm_medium=email&utm_source=Revue%20newsletter)
+- [Why curiosity might be the making of a recruiter](https://www.linkedin.com/business/talent/blog/talent-acquisition/why-curiosity-is-most-important-skill-for-recruiters)
 
 ## 📋 Job Boards 
 - [Huge list of Job-boards](https://www.recruitingbrainfood.com/big-list-of-places-to-post-jobs-globally/)
