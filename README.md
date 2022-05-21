@@ -154,6 +154,8 @@ ___
 - [Instant Scraper](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah)
      - I prefer this, works superwell with meetups etc
 - [Data Scraper](https://chrome.google.com/webstore/detail/data-scraper-easy-web-scr/nndknepjnldbdbepjfgmncbggmopgden)
+- [Bionic Reading](https://rapidapi.com/bionic-reading-bionic-reading-default/api/bionic-reading1/pricing)
+     - API which makes text easier to read for neurodiverse people 
 
 ### 🧠Github tools
 - [Octo HR](https://chrome.google.com/webstore/detail/octohr/beiklbdjdmfkgchmiabjejdlpaoicbef/related)
