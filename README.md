@@ -51,6 +51,7 @@ ___
 - [Better hiring](https://betterhiring.buzzsprout.com/)
 - [Building an Anti-racist workplace](https://open.spotify.com/episode/13LAuqU4Pn2nCiAuM76qyL?si=3XxYuqhLRJi6HgGe6-KFLQ)
 - [How to Trust people you dont like](https://open.spotify.com/episode/3pOvrpwRcY1xsCah38dnjy?si=hxrOsgpMS9-G54fEhTck3Q&dl_branch=1) 
+- [How to have better conversations](https://www.youtube.com/watch?v=R1vskiVDwl4)
 
 ## 😍  Diversity and Inclusion 
 - [Are we automating racism?](https://www.youtube.com/watch?v=Ok5sKLXqynQ) 
