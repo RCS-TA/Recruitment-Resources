@@ -2,7 +2,7 @@
 
 Hello everyone, Im [Robbie](https://www.linkedin.com/in/robbiecraigsimpson/)
 
-Currently i'm working for HelloFresh leading up thier Global mobile and frontend recruitment team 
+Currently i'm working for Wolt leading up part of their Product+ recruitment
 
 I decided to formalise this list after my bookmarks were getting a bit out of hand. Inspired by [awesome-recruitment](https://github.com/Sjamilla/awesome-recruitment) github. I have created a list of resources in which I use frequently or want to remember for future reference. Although the list is primarily for me, I decided to make it public as it might be useful for others, if you have any feedback etc please feel free to find me on [Linkedin](https://www.linkedin.com/in/robbiecraigsimpson/)
 
@@ -142,7 +142,7 @@ ___
 
 
 ## 🔨 Recruitment Tools
-- [Finding e-mails through Github](https://www.sourcecon.com/how-to-find-almost-any-github-users-email-address-2-0/_)
+- [Finding e-mails through Github](https://www.sourcecon.com/how-to-find-almost-any-github-users-email-address-2-0)
 - [Amazing Hiring](https://chrome.google.com/webstore/detail/amazinghiring/didkfdopbffjkpolefhpcjkohcpalicd?hl=en) 
     - Typically best for Product, UI and Frontend roles
 - [Boolean string generator](https://scoperac.com/booleanstringbank/) 
